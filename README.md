@@ -1,3 +1,6 @@
+# DEPRECATED
+## Use https://github.com/typed-ember/ember-cli-typescript instead
+
 # TypeScript support for ember-cli [![Build Status](https://travis-ci.org/philipbjorge/ember-cli-typescript-compiler.svg)](https://travis-ci.org/philipbjorge/ember-cli-typescript-compiler)
 Adds precompilation of TypeScript files while still allowing a mix of ES6 and TS files in your ember-cli project.
 
